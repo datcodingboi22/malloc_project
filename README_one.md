@@ -95,5 +95,5 @@ Please make sure it works fully before submitting final product.
 
 You may use any of the other provided and fully implemented functions to help you implement the functions you need to fix. 
 
-
+Code can be tested using trace files which are files ending in .rep
 
